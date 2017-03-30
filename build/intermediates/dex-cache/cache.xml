@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f5b443714028224d44c63880149b0e4976a712cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f5b443714028224d44c63880149b0e4976a712cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="94a1acb20150537193092b2a25a2a73353e94564">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_61242f3330dd2118bab30139e284ace0f1ec19b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5899c47fd1ecd00e456e9ca8d1846f3114f44588">
+        <dex dex="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\pre-dexed\debug\instant-run_ac68df5c61ff700fdc32022a6b04729478df36bf.jar" />
+    </item>
+
+</items>

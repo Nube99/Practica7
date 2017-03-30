@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="5701577145035"
+    token="3419491783608896058"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="118" />
+    <task
+        name="instant-run-dex"
+        duration="727" />
+    <task
+        name="instant-run-transform"
+        duration="42" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="1352309288022"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1480118769976"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\1480118769976\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3092421472959"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3092421472959\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3105327030034"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3105327030034\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3141036367631"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3141036367631\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3156504204920"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3156504204920\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3192487657601"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3192487657601\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3211562031678"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3211562031678\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3225005803359"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3225005803359\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3244068376786"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3244068376786\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3258084031230"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3258084031230\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3277429087552"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3277429087552\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3294259543806"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3294259543806\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3313855589473"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3313855589473\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3332157454848"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3332157454848\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3351940637350"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3351940637350\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3390622695914"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3390622695914\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3500883050523"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3500883050523\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3514813374135"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3514813374135\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3574290964881"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3574290964881\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3674192719457"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3674192719457\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3791054361157"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3791054361157\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3850374105883"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3850374105883\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3861526755817"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3861526755817\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3874252523250"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3874252523250\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3885017054649"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3885017054649\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3895887469892"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3895887469892\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3908688477802"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3908688477802\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3921227439009"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3921227439009\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3931998470396"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3931998470396\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3947895135781"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3947895135781\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="3967329015672"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\3967329015672\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4021004710265"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4021004710265\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4038797654828"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4038797654828\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4048517893581"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4048517893581\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4109162214754"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4109162214754\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4149367570816"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4149367570816\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4160242973652"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4160242973652\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4172605199460"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4172605199460\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4191606078105"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4191606078105\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4280385215862"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4280385215862\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4310569586702"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4310569586702\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4317974911788"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4317974911788\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4327450295165"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4327450295165\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4359537784715"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4359537784715\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4370879776867"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4370879776867\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4384766160615"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4384766160615\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4409953153822"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4409953153822\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4453671983434"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4453671983434\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4501025770609"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4501025770609\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4521386147788"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4521386147788\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4533105237518"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4533105237518\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4562930356706"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4562930356706\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4679532089242"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4679532089242\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4711382085171"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4711382085171\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4739311989814"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4739311989814\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4755799860872"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4755799860872\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4773304904725"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4773304904725\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4816435217218"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4816435217218\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4828498754342"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4828498754342\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4852899577323"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4852899577323\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4866009468848"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4866009468848\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4887589829294"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4887589829294\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4909378100326"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4909378100326\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4923032894088"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4923032894088\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4930554467057"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4930554467057\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4977920623768"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4977920623768\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4987787624375"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4987787624375\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="4997627709982"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\4997627709982\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5014895222487"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5014895222487\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5032925681851"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5032925681851\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5044319616321"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5044319616321\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5054483492724"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5054483492724\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5071961486885"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5071961486885\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5080279933666"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5080279933666\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5093443882545"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5093443882545\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5109647206305"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5109647206305\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5136572200133"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5136572200133\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5147985661373"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5147985661373\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5156505453887"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5156505453887\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5169590749638"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5169590749638\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5180160207274"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5180160207274\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5193073230349"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5193073230349\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5210077348563"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5210077348563\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5241412103724"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5241412103724\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5249187766944"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5249187766944\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5258032808705"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5258032808705\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5268425866185"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5268425866185\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5283524230747"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5283524230747\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5302851798558"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5302851798558\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5320049359002"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5320049359002\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5336204072346"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5336204072346\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5345379307925"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5345379307925\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5356042881187"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5356042881187\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5433423873265"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5433423873265\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5471389073957"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5471389073957\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5481010031114"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5481010031114\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5536101813616"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5536101813616\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5664031295318"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5664031295318\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5675186087425"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\builds\debug\5675186087425\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5701577145035"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\CECyT9\Desktop\Dibuja1\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
